@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: darkgray;
+}
+
+.tituloIndex h2 {
+    color: darkgray;
+    font: italic 34pt Impact;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.nome_completo {
+    font: normal 24pt Impact;
+    letter-spacing: 1px;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.posicao {
+    font: normal 20pt Impact;
+    letter-spacing: 1px;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.descricao {
+    font: normal 20pt Impact;
+    letter-spacing: 1px;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.nascimento {
+    font: normal 20pt Impact;
+    letter-spacing: 1px;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.altura_peso {
+    font: normal 20pt Impact;
+    letter-spacing: 1px;
+    margin-top: 1%;
+    text-align: center;
+}
+
+.home {
+   font: normal 12pt Arial;
+   margin-bottom: 3%;
+   color: black;
+   background-color: darkgray;
+   width: 90px;
+   height: 25px;
+}
